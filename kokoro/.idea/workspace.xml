@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b081e52-ddc6-46fb-8424-dfba12ff27bf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1PmI3JuUjLKjZOLZpM0dC2nPEvF" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/kokoro/images" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\kokoro\wp-content\themes\kokoro\images" />
+      <recent name="D:\xampp\htdocs\kokoro\wp-content\themes\kokoro" />
+      <recent name="D:\xampp\htdocs\kokoro\wp-content\themes\kokoro\js" />
+      <recent name="D:\xampp\htdocs\kokoro\wp-content\themes\kokoro\fonts" />
+      <recent name="D:\xampp\htdocs\kokoro\wp-content\themes\kokoro\sass\boostrap" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b081e52-ddc6-46fb-8424-dfba12ff27bf" name="Default Changelist" comment="" />
+      <created>1566300331024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566300331024</updated>
+      <workItem from="1566300332092" duration="753000" />
+      <workItem from="1566303020504" duration="3246000" />
+      <workItem from="1566384828017" duration="9860000" />
+      <workItem from="1566471790268" duration="8000" />
+      <workItem from="1566472648554" duration="10399000" />
+      <workItem from="1566559356468" duration="31000" />
+      <workItem from="1569497486404" duration="12229000" />
+      <workItem from="1569590263350" duration="6634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>D:\xampp\htdocs\kokoro</wordpressPath>
+  </component>
+</project>

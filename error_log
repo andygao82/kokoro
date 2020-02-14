@@ -1,0 +1,4 @@
+[22-Jan-2020 20:34:03 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/kokorosushi/public_html/wp-includes/class-wp-query.php on line 2197
+[22-Jan-2020 20:34:03 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/kokorosushi/public_html/wp-includes/canonical.php on line 217
+[22-Jan-2020 23:05:51 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/kokorosushi/public_html/wp-includes/class-wp-query.php on line 2197
+[22-Jan-2020 23:05:51 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/kokorosushi/public_html/wp-includes/canonical.php on line 217
